@@ -12,7 +12,7 @@ Get the results and calculating the QppH
 ## Requirements
 
 * The Bourne Again Shell - bash
-* various typical Unix-ish command-line tools: unzip, sed, echo and so on
+* various typical Unix-shell command-line tools: unzip, sed, echo and so on
 * Microsoft SQL Server instance up
 * Database TPC-H create database and loaded data
 
