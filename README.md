@@ -1,6 +1,4 @@
-(https://github.com/gomods/athens)![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bashlogoColor=white)
-
-
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
 # TPC-H benchmark tools Microsoft SQL Server Linux
